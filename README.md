@@ -1,6 +1,6 @@
 # AHP
-*  輸入X為負代表 = 1/X
-*  輸入X為正代表 = X
+* 尺度量表為正，被比較的一方越不重要​
+* 尺度量表為負，被比較的一方越重要
 *  輸入為一個Dict型態
 
 <img src="images/scale.jpg" alt="Logo" width="600" height="100">
